@@ -2,4 +2,6 @@ def func(n: int):
     return n**2
 
 
-print(func(10))
+num = int(input("Введите число: "))
+
+print(func(num))
