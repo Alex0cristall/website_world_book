@@ -3,5 +3,12 @@ def func(n: int):
 
 
 num = int(input("Введите число: "))
-
 print(func(num))
+
+
+def count_char_in_name(name: str):
+    return len(name)
+
+
+name_user = input("Введите ваше имя: ")
+print(count_char_in_name(name_user))
