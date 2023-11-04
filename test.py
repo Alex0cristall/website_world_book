@@ -1,3 +1,6 @@
+from datetime import datetime
+
+
 def func(n: int):
     return n**2
 
@@ -12,3 +15,6 @@ def count_char_in_name(name: str):
 
 name_user = input("Введите ваше имя: ")
 print(count_char_in_name(name_user))
+
+
+print(datetime.now())
