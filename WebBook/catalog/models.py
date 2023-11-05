@@ -52,7 +52,10 @@ class Author(models.Model):
     )
 
     about = models.TextField(
-        help_text="Введите сведения об авторе", verbose_name="Сведения об авторе"
+        help_text="Введите сведения об авторе",
+        verbose_name="Сведения об авторе",
+        null=True,
+        blank=True,
     )
 
     photo = models.ImageField(
