@@ -44,6 +44,14 @@ class Author(models.Model):
         verbose_name="Фамилия автора",
     )
 
+    surname = models.CharField(
+        max_length=100,
+        help_text="Введите отчество автора(если есть)",
+        verbose_name="Фамилия отчество",
+        null=True,
+        blank=True,
+    )
+
     date_of_birth = models.DateField(
         help_text="Введите дату рождения",
         verbose_name="Дата рождения",
@@ -134,6 +142,14 @@ class Book(models.Model):
         upload_to="images",
         help_text="Вставте изображение обложки книги",
         verbose_name="Изображение обложки",
+        blank=True, null=True 
+    )
+
+    photo_url = models.CharField(
+        max_length=200,
+        help_text="URL-photo",
+        verbose_name="URL-photo",
+        blank=True, null=True
     )
 
     def __str__(self) -> str:

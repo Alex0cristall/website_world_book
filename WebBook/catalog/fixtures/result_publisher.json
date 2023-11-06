@@ -1,0 +1,149 @@
+[
+    {
+        "model": "catalog.publisher",
+        "pk": 5,
+        "fields": {
+            "name": "Манн, Иванов и Фербер"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 6,
+        "fields": {
+            "name": "Бомбора"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 7,
+        "fields": {
+            "name": "Эксмо"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 8,
+        "fields": {
+            "name": "ДМК-Пресс"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 9,
+        "fields": {
+            "name": "Питер"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 10,
+        "fields": {
+            "name": "Диалектика"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 11,
+        "fields": {
+            "name": "Инфотропик"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 12,
+        "fields": {
+            "name": "АСТ"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 13,
+        "fields": {
+            "name": "Прометей"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 14,
+        "fields": {
+            "name": "Лань"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 15,
+        "fields": {
+            "name": "Солон-пресс"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 16,
+        "fields": {
+            "name": "Директмедиа Паблишинг"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 17,
+        "fields": {
+            "name": "КнигИздат"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 18,
+        "fields": {
+            "name": "Техносфера"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 19,
+        "fields": {
+            "name": "ИД Научная библиотека"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 20,
+        "fields": {
+            "name": "РГГУ"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 21,
+        "fields": {
+            "name": "Издательство МГТУ им. Н.Э.Баумана"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 22,
+        "fields": {
+            "name": "Олимп-Бизнес"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 23,
+        "fields": {
+            "name": "Вильямс"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 24,
+        "fields": {
+            "name": "Дело"
+        }
+    },
+    {
+        "model": "catalog.publisher",
+        "pk": 25,
+        "fields": {
+            "name": "ГЭОТАР-Медиа"
+        }
+    }
+]

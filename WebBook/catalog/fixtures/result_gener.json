@@ -1,0 +1,93 @@
+[
+    {
+        "model": "catalog.gener",
+        "pk": 9,
+        "fields": {
+            "name": "Информатика"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 10,
+        "fields": {
+            "name": "Графика. Дизайн. Проектирование"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 11,
+        "fields": {
+            "name": "Программирование"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 12,
+        "fields": {
+            "name": "Сети и коммуникации"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 13,
+        "fields": {
+            "name": "Менеджмент. Управление предприятием"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 14,
+        "fields": {
+            "name": "Операционные системы и утилиты для ПК"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 15,
+        "fields": {
+            "name": "Руководства по пользованию программами"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 16,
+        "fields": {
+            "name": "Машинное обучение. Анализ данных"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 17,
+        "fields": {
+            "name": "Менеджмент в IT"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 18,
+        "fields": {
+            "name": "Электротехника. Электроника"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 19,
+        "fields": {
+            "name": "Железо ПК"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 20,
+        "fields": {
+            "name": "Базы данных"
+        }
+    },
+    {
+        "model": "catalog.gener",
+        "pk": 21,
+        "fields": {
+            "name": "Копирайтинг. Визуализация. Деловая переписка"
+        }
+    }
+]

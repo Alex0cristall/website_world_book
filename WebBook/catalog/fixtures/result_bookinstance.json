@@ -1,0 +1,2762 @@
+[
+    {
+        "model": "catalog.bookinstance",
+        "pk": 2,
+        "fields": {
+            "inv_nom": "786008",
+            "due_back": null,
+            "book_id": 249,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 3,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 4,
+        "fields": {
+            "inv_nom": "672180",
+            "due_back": null,
+            "book_id": 251,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 5,
+        "fields": {
+            "inv_nom": "601607",
+            "due_back": null,
+            "book_id": 252,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 6,
+        "fields": {
+            "inv_nom": "323187",
+            "due_back": null,
+            "book_id": 253,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 7,
+        "fields": {
+            "inv_nom": "809304",
+            "due_back": null,
+            "book_id": 254,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 8,
+        "fields": {
+            "inv_nom": "733470",
+            "due_back": null,
+            "book_id": 255,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 9,
+        "fields": {
+            "inv_nom": "824407",
+            "due_back": null,
+            "book_id": 256,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 10,
+        "fields": {
+            "inv_nom": "737421",
+            "due_back": null,
+            "book_id": 257,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 11,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 12,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 13,
+        "fields": {
+            "inv_nom": "748340",
+            "due_back": null,
+            "book_id": 261,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 14,
+        "fields": {
+            "inv_nom": "310025",
+            "due_back": null,
+            "book_id": 262,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 15,
+        "fields": {
+            "inv_nom": "485463",
+            "due_back": null,
+            "book_id": 263,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 16,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 17,
+        "fields": {
+            "inv_nom": "936599",
+            "due_back": null,
+            "book_id": 265,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 18,
+        "fields": {
+            "inv_nom": "591689",
+            "due_back": null,
+            "book_id": 186,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 19,
+        "fields": {
+            "inv_nom": "987215",
+            "due_back": null,
+            "book_id": 20,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 20,
+        "fields": {
+            "inv_nom": "988761",
+            "due_back": null,
+            "book_id": 21,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 21,
+        "fields": {
+            "inv_nom": "981165",
+            "due_back": null,
+            "book_id": 22,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 22,
+        "fields": {
+            "inv_nom": "985354",
+            "due_back": null,
+            "book_id": 23,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 23,
+        "fields": {
+            "inv_nom": "984371",
+            "due_back": null,
+            "book_id": 24,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 24,
+        "fields": {
+            "inv_nom": "974180",
+            "due_back": null,
+            "book_id": 25,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 25,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 26,
+        "fields": {
+            "inv_nom": "983705",
+            "due_back": null,
+            "book_id": 27,
+            "status_id": 5
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 27,
+        "fields": {
+            "inv_nom": "982149",
+            "due_back": null,
+            "book_id": 28,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 28,
+        "fields": {
+            "inv_nom": "982182",
+            "due_back": null,
+            "book_id": 29,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 29,
+        "fields": {
+            "inv_nom": "982183",
+            "due_back": null,
+            "book_id": 30,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 30,
+        "fields": {
+            "inv_nom": "981050",
+            "due_back": null,
+            "book_id": 31,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 31,
+        "fields": {
+            "inv_nom": "979836",
+            "due_back": null,
+            "book_id": 32,
+            "status_id": 5
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 32,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 33,
+        "fields": {
+            "inv_nom": "962966",
+            "due_back": null,
+            "book_id": 34,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 34,
+        "fields": {
+            "inv_nom": "786008",
+            "due_back": null,
+            "book_id": 249,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 35,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 36,
+        "fields": {
+            "inv_nom": "672180",
+            "due_back": null,
+            "book_id": 251,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 37,
+        "fields": {
+            "inv_nom": "601607",
+            "due_back": null,
+            "book_id": 252,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 38,
+        "fields": {
+            "inv_nom": "323187",
+            "due_back": null,
+            "book_id": 253,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 39,
+        "fields": {
+            "inv_nom": "809304",
+            "due_back": null,
+            "book_id": 254,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 40,
+        "fields": {
+            "inv_nom": "733470",
+            "due_back": null,
+            "book_id": 255,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 41,
+        "fields": {
+            "inv_nom": "824407",
+            "due_back": null,
+            "book_id": 256,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 42,
+        "fields": {
+            "inv_nom": "737421",
+            "due_back": null,
+            "book_id": 257,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 43,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 44,
+        "fields": {
+            "inv_nom": "828097",
+            "due_back": null,
+            "book_id": 259,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 45,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 46,
+        "fields": {
+            "inv_nom": "748340",
+            "due_back": null,
+            "book_id": 261,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 47,
+        "fields": {
+            "inv_nom": "310025",
+            "due_back": null,
+            "book_id": 262,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 48,
+        "fields": {
+            "inv_nom": "485463",
+            "due_back": null,
+            "book_id": 263,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 49,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 50,
+        "fields": {
+            "inv_nom": "497448",
+            "due_back": null,
+            "book_id": 129,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 51,
+        "fields": {
+            "inv_nom": "968174",
+            "due_back": null,
+            "book_id": 215,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 52,
+        "fields": {
+            "inv_nom": "958622",
+            "due_back": null,
+            "book_id": 53,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 53,
+        "fields": {
+            "inv_nom": "965646",
+            "due_back": null,
+            "book_id": 54,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 54,
+        "fields": {
+            "inv_nom": "965681",
+            "due_back": null,
+            "book_id": 55,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 55,
+        "fields": {
+            "inv_nom": "965627",
+            "due_back": null,
+            "book_id": 56,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 56,
+        "fields": {
+            "inv_nom": "963343",
+            "due_back": null,
+            "book_id": 57,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 57,
+        "fields": {
+            "inv_nom": "956745",
+            "due_back": null,
+            "book_id": 58,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 58,
+        "fields": {
+            "inv_nom": "960707",
+            "due_back": null,
+            "book_id": 59,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 59,
+        "fields": {
+            "inv_nom": "960319",
+            "due_back": null,
+            "book_id": 60,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 60,
+        "fields": {
+            "inv_nom": "960331",
+            "due_back": null,
+            "book_id": 61,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 61,
+        "fields": {
+            "inv_nom": "959800",
+            "due_back": null,
+            "book_id": 62,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 62,
+        "fields": {
+            "inv_nom": "786008",
+            "due_back": null,
+            "book_id": 249,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 63,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 64,
+        "fields": {
+            "inv_nom": "672180",
+            "due_back": null,
+            "book_id": 251,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 65,
+        "fields": {
+            "inv_nom": "601607",
+            "due_back": null,
+            "book_id": 252,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 66,
+        "fields": {
+            "inv_nom": "323187",
+            "due_back": null,
+            "book_id": 253,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 67,
+        "fields": {
+            "inv_nom": "809304",
+            "due_back": null,
+            "book_id": 254,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 68,
+        "fields": {
+            "inv_nom": "733470",
+            "due_back": null,
+            "book_id": 255,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 69,
+        "fields": {
+            "inv_nom": "824407",
+            "due_back": null,
+            "book_id": 256,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 70,
+        "fields": {
+            "inv_nom": "737421",
+            "due_back": null,
+            "book_id": 257,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 71,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 72,
+        "fields": {
+            "inv_nom": "828097",
+            "due_back": null,
+            "book_id": 259,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 73,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 74,
+        "fields": {
+            "inv_nom": "748340",
+            "due_back": null,
+            "book_id": 261,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 75,
+        "fields": {
+            "inv_nom": "310025",
+            "due_back": null,
+            "book_id": 262,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 76,
+        "fields": {
+            "inv_nom": "485463",
+            "due_back": null,
+            "book_id": 263,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 77,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 78,
+        "fields": {
+            "inv_nom": "844346",
+            "due_back": null,
+            "book_id": 187,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 79,
+        "fields": {
+            "inv_nom": "497448",
+            "due_back": null,
+            "book_id": 129,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 80,
+        "fields": {
+            "inv_nom": "958315",
+            "due_back": null,
+            "book_id": 81,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 81,
+        "fields": {
+            "inv_nom": "955615",
+            "due_back": null,
+            "book_id": 82,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 82,
+        "fields": {
+            "inv_nom": "952864",
+            "due_back": null,
+            "book_id": 83,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 83,
+        "fields": {
+            "inv_nom": "956620",
+            "due_back": null,
+            "book_id": 84,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 84,
+        "fields": {
+            "inv_nom": "955786",
+            "due_back": null,
+            "book_id": 85,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 85,
+        "fields": {
+            "inv_nom": "954707",
+            "due_back": null,
+            "book_id": 86,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 86,
+        "fields": {
+            "inv_nom": "955810",
+            "due_back": null,
+            "book_id": 87,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 87,
+        "fields": {
+            "inv_nom": "955812",
+            "due_back": null,
+            "book_id": 88,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 88,
+        "fields": {
+            "inv_nom": "952668",
+            "due_back": null,
+            "book_id": 89,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 89,
+        "fields": {
+            "inv_nom": "952670",
+            "due_back": null,
+            "book_id": 90,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 90,
+        "fields": {
+            "inv_nom": "952614",
+            "due_back": null,
+            "book_id": 91,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 91,
+        "fields": {
+            "inv_nom": "786008",
+            "due_back": null,
+            "book_id": 249,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 92,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 93,
+        "fields": {
+            "inv_nom": "672180",
+            "due_back": null,
+            "book_id": 251,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 94,
+        "fields": {
+            "inv_nom": "601607",
+            "due_back": null,
+            "book_id": 252,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 95,
+        "fields": {
+            "inv_nom": "323187",
+            "due_back": null,
+            "book_id": 253,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 96,
+        "fields": {
+            "inv_nom": "809304",
+            "due_back": null,
+            "book_id": 254,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 97,
+        "fields": {
+            "inv_nom": "733470",
+            "due_back": null,
+            "book_id": 255,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 98,
+        "fields": {
+            "inv_nom": "824407",
+            "due_back": null,
+            "book_id": 256,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 99,
+        "fields": {
+            "inv_nom": "737421",
+            "due_back": null,
+            "book_id": 257,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 100,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 101,
+        "fields": {
+            "inv_nom": "828097",
+            "due_back": null,
+            "book_id": 259,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 102,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 103,
+        "fields": {
+            "inv_nom": "748340",
+            "due_back": null,
+            "book_id": 261,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 104,
+        "fields": {
+            "inv_nom": "310025",
+            "due_back": null,
+            "book_id": 262,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 105,
+        "fields": {
+            "inv_nom": "485463",
+            "due_back": null,
+            "book_id": 263,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 106,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 107,
+        "fields": {
+            "inv_nom": "659315",
+            "due_back": null,
+            "book_id": 108,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 108,
+        "fields": {
+            "inv_nom": "949254",
+            "due_back": null,
+            "book_id": 109,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 109,
+        "fields": {
+            "inv_nom": "950881",
+            "due_back": null,
+            "book_id": 110,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 110,
+        "fields": {
+            "inv_nom": "786008",
+            "due_back": null,
+            "book_id": 249,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 111,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 112,
+        "fields": {
+            "inv_nom": "672180",
+            "due_back": null,
+            "book_id": 251,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 113,
+        "fields": {
+            "inv_nom": "601607",
+            "due_back": null,
+            "book_id": 252,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 114,
+        "fields": {
+            "inv_nom": "323187",
+            "due_back": null,
+            "book_id": 253,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 115,
+        "fields": {
+            "inv_nom": "809304",
+            "due_back": null,
+            "book_id": 254,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 116,
+        "fields": {
+            "inv_nom": "733470",
+            "due_back": null,
+            "book_id": 255,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 117,
+        "fields": {
+            "inv_nom": "824407",
+            "due_back": null,
+            "book_id": 256,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 118,
+        "fields": {
+            "inv_nom": "737421",
+            "due_back": null,
+            "book_id": 257,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 119,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 120,
+        "fields": {
+            "inv_nom": "828097",
+            "due_back": null,
+            "book_id": 259,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 121,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 122,
+        "fields": {
+            "inv_nom": "748340",
+            "due_back": null,
+            "book_id": 261,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 123,
+        "fields": {
+            "inv_nom": "310025",
+            "due_back": null,
+            "book_id": 262,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 124,
+        "fields": {
+            "inv_nom": "485463",
+            "due_back": null,
+            "book_id": 263,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 125,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 126,
+        "fields": {
+            "inv_nom": "591689",
+            "due_back": null,
+            "book_id": 186,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 127,
+        "fields": {
+            "inv_nom": "844346",
+            "due_back": null,
+            "book_id": 187,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 128,
+        "fields": {
+            "inv_nom": "497448",
+            "due_back": null,
+            "book_id": 129,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 129,
+        "fields": {
+            "inv_nom": "939380",
+            "due_back": null,
+            "book_id": 130,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 130,
+        "fields": {
+            "inv_nom": "939385",
+            "due_back": null,
+            "book_id": 131,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 131,
+        "fields": {
+            "inv_nom": "939587",
+            "due_back": null,
+            "book_id": 132,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 132,
+        "fields": {
+            "inv_nom": "939588",
+            "due_back": null,
+            "book_id": 133,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 133,
+        "fields": {
+            "inv_nom": "939853",
+            "due_back": null,
+            "book_id": 134,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 134,
+        "fields": {
+            "inv_nom": "939250",
+            "due_back": null,
+            "book_id": 135,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 135,
+        "fields": {
+            "inv_nom": "939256",
+            "due_back": null,
+            "book_id": 136,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 136,
+        "fields": {
+            "inv_nom": "939272",
+            "due_back": null,
+            "book_id": 137,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 137,
+        "fields": {
+            "inv_nom": "936301",
+            "due_back": null,
+            "book_id": 138,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 138,
+        "fields": {
+            "inv_nom": "938321",
+            "due_back": null,
+            "book_id": 139,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 139,
+        "fields": {
+            "inv_nom": "938330",
+            "due_back": null,
+            "book_id": 140,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 140,
+        "fields": {
+            "inv_nom": "937784",
+            "due_back": null,
+            "book_id": 141,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 141,
+        "fields": {
+            "inv_nom": "936599",
+            "due_back": null,
+            "book_id": 265,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 142,
+        "fields": {
+            "inv_nom": "786008",
+            "due_back": null,
+            "book_id": 249,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 143,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 144,
+        "fields": {
+            "inv_nom": "672180",
+            "due_back": null,
+            "book_id": 251,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 145,
+        "fields": {
+            "inv_nom": "601607",
+            "due_back": null,
+            "book_id": 252,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 146,
+        "fields": {
+            "inv_nom": "323187",
+            "due_back": null,
+            "book_id": 253,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 147,
+        "fields": {
+            "inv_nom": "809304",
+            "due_back": null,
+            "book_id": 254,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 148,
+        "fields": {
+            "inv_nom": "733470",
+            "due_back": null,
+            "book_id": 255,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 149,
+        "fields": {
+            "inv_nom": "824407",
+            "due_back": null,
+            "book_id": 256,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 150,
+        "fields": {
+            "inv_nom": "737421",
+            "due_back": null,
+            "book_id": 257,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 151,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 152,
+        "fields": {
+            "inv_nom": "828097",
+            "due_back": null,
+            "book_id": 259,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 153,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 154,
+        "fields": {
+            "inv_nom": "748340",
+            "due_back": null,
+            "book_id": 261,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 155,
+        "fields": {
+            "inv_nom": "310025",
+            "due_back": null,
+            "book_id": 262,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 156,
+        "fields": {
+            "inv_nom": "485463",
+            "due_back": null,
+            "book_id": 263,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 157,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 158,
+        "fields": {
+            "inv_nom": "844346",
+            "due_back": null,
+            "book_id": 187,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 159,
+        "fields": {
+            "inv_nom": "936111",
+            "due_back": null,
+            "book_id": 160,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 160,
+        "fields": {
+            "inv_nom": "932626",
+            "due_back": null,
+            "book_id": 161,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 161,
+        "fields": {
+            "inv_nom": "931230",
+            "due_back": null,
+            "book_id": 162,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 162,
+        "fields": {
+            "inv_nom": "931233",
+            "due_back": null,
+            "book_id": 163,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 163,
+        "fields": {
+            "inv_nom": "931234",
+            "due_back": null,
+            "book_id": 164,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 164,
+        "fields": {
+            "inv_nom": "930238",
+            "due_back": null,
+            "book_id": 165,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 165,
+        "fields": {
+            "inv_nom": "927250",
+            "due_back": null,
+            "book_id": 166,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 166,
+        "fields": {
+            "inv_nom": "926652",
+            "due_back": null,
+            "book_id": 167,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 167,
+        "fields": {
+            "inv_nom": "915261",
+            "due_back": null,
+            "book_id": 168,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 168,
+        "fields": {
+            "inv_nom": "786008",
+            "due_back": null,
+            "book_id": 249,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 169,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 170,
+        "fields": {
+            "inv_nom": "672180",
+            "due_back": null,
+            "book_id": 251,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 171,
+        "fields": {
+            "inv_nom": "601607",
+            "due_back": null,
+            "book_id": 252,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 172,
+        "fields": {
+            "inv_nom": "323187",
+            "due_back": null,
+            "book_id": 253,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 173,
+        "fields": {
+            "inv_nom": "809304",
+            "due_back": null,
+            "book_id": 254,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 174,
+        "fields": {
+            "inv_nom": "733470",
+            "due_back": null,
+            "book_id": 255,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 175,
+        "fields": {
+            "inv_nom": "824407",
+            "due_back": null,
+            "book_id": 256,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 176,
+        "fields": {
+            "inv_nom": "737421",
+            "due_back": null,
+            "book_id": 257,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 177,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 178,
+        "fields": {
+            "inv_nom": "828097",
+            "due_back": null,
+            "book_id": 259,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 179,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 180,
+        "fields": {
+            "inv_nom": "748340",
+            "due_back": null,
+            "book_id": 261,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 181,
+        "fields": {
+            "inv_nom": "310025",
+            "due_back": null,
+            "book_id": 262,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 182,
+        "fields": {
+            "inv_nom": "485463",
+            "due_back": null,
+            "book_id": 263,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 183,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 184,
+        "fields": {
+            "inv_nom": "941848",
+            "due_back": null,
+            "book_id": 185,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 185,
+        "fields": {
+            "inv_nom": "591689",
+            "due_back": null,
+            "book_id": 186,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 186,
+        "fields": {
+            "inv_nom": "844346",
+            "due_back": null,
+            "book_id": 187,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 187,
+        "fields": {
+            "inv_nom": "896263",
+            "due_back": null,
+            "book_id": 188,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 188,
+        "fields": {
+            "inv_nom": "918583",
+            "due_back": null,
+            "book_id": 190,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 189,
+        "fields": {
+            "inv_nom": "918584",
+            "due_back": null,
+            "book_id": 190,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 190,
+        "fields": {
+            "inv_nom": "920710",
+            "due_back": null,
+            "book_id": 191,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 191,
+        "fields": {
+            "inv_nom": "916132",
+            "due_back": null,
+            "book_id": 192,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 192,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 193,
+        "fields": {
+            "inv_nom": "907453",
+            "due_back": null,
+            "book_id": 194,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 194,
+        "fields": {
+            "inv_nom": "907454",
+            "due_back": null,
+            "book_id": 195,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 195,
+        "fields": {
+            "inv_nom": "907457",
+            "due_back": null,
+            "book_id": 196,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 196,
+        "fields": {
+            "inv_nom": "907459",
+            "due_back": null,
+            "book_id": 197,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 197,
+        "fields": {
+            "inv_nom": "903922",
+            "due_back": null,
+            "book_id": 198,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 198,
+        "fields": {
+            "inv_nom": "786008",
+            "due_back": null,
+            "book_id": 249,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 199,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 200,
+        "fields": {
+            "inv_nom": "672180",
+            "due_back": null,
+            "book_id": 251,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 201,
+        "fields": {
+            "inv_nom": "601607",
+            "due_back": null,
+            "book_id": 252,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 202,
+        "fields": {
+            "inv_nom": "323187",
+            "due_back": null,
+            "book_id": 253,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 203,
+        "fields": {
+            "inv_nom": "809304",
+            "due_back": null,
+            "book_id": 254,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 204,
+        "fields": {
+            "inv_nom": "733470",
+            "due_back": null,
+            "book_id": 255,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 205,
+        "fields": {
+            "inv_nom": "824407",
+            "due_back": null,
+            "book_id": 256,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 206,
+        "fields": {
+            "inv_nom": "737421",
+            "due_back": null,
+            "book_id": 257,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 207,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 208,
+        "fields": {
+            "inv_nom": "828097",
+            "due_back": null,
+            "book_id": 259,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 209,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 210,
+        "fields": {
+            "inv_nom": "748340",
+            "due_back": null,
+            "book_id": 261,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 211,
+        "fields": {
+            "inv_nom": "310025",
+            "due_back": null,
+            "book_id": 262,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 212,
+        "fields": {
+            "inv_nom": "485463",
+            "due_back": null,
+            "book_id": 263,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 213,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 214,
+        "fields": {
+            "inv_nom": "968174",
+            "due_back": null,
+            "book_id": 215,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 215,
+        "fields": {
+            "inv_nom": "837994",
+            "due_back": null,
+            "book_id": 216,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 216,
+        "fields": {
+            "inv_nom": "896546",
+            "due_back": null,
+            "book_id": 217,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 217,
+        "fields": {
+            "inv_nom": "896568",
+            "due_back": null,
+            "book_id": 218,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 218,
+        "fields": {
+            "inv_nom": "893684",
+            "due_back": null,
+            "book_id": 219,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 219,
+        "fields": {
+            "inv_nom": "893385",
+            "due_back": null,
+            "book_id": 220,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 220,
+        "fields": {
+            "inv_nom": "881979",
+            "due_back": null,
+            "book_id": 221,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 221,
+        "fields": {
+            "inv_nom": "880128",
+            "due_back": null,
+            "book_id": 222,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 222,
+        "fields": {
+            "inv_nom": "879296",
+            "due_back": null,
+            "book_id": 223,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 223,
+        "fields": {
+            "inv_nom": "878309",
+            "due_back": null,
+            "book_id": 224,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 224,
+        "fields": {
+            "inv_nom": "786008",
+            "due_back": null,
+            "book_id": 249,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 225,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 226,
+        "fields": {
+            "inv_nom": "672180",
+            "due_back": null,
+            "book_id": 251,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 227,
+        "fields": {
+            "inv_nom": "601607",
+            "due_back": null,
+            "book_id": 252,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 228,
+        "fields": {
+            "inv_nom": "323187",
+            "due_back": null,
+            "book_id": 253,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 229,
+        "fields": {
+            "inv_nom": "809304",
+            "due_back": null,
+            "book_id": 254,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 230,
+        "fields": {
+            "inv_nom": "733470",
+            "due_back": null,
+            "book_id": 255,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 231,
+        "fields": {
+            "inv_nom": "824407",
+            "due_back": null,
+            "book_id": 256,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 232,
+        "fields": {
+            "inv_nom": "737421",
+            "due_back": null,
+            "book_id": 257,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 233,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 234,
+        "fields": {
+            "inv_nom": "828097",
+            "due_back": null,
+            "book_id": 259,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 235,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 236,
+        "fields": {
+            "inv_nom": "748340",
+            "due_back": null,
+            "book_id": 261,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 237,
+        "fields": {
+            "inv_nom": "310025",
+            "due_back": null,
+            "book_id": 262,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 238,
+        "fields": {
+            "inv_nom": "485463",
+            "due_back": null,
+            "book_id": 263,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 239,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 240,
+        "fields": {
+            "inv_nom": "521754",
+            "due_back": null,
+            "book_id": 241,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 241,
+        "fields": {
+            "inv_nom": "874738",
+            "due_back": null,
+            "book_id": 242,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 242,
+        "fields": {
+            "inv_nom": "874739",
+            "due_back": null,
+            "book_id": 243,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 243,
+        "fields": {
+            "inv_nom": "871680",
+            "due_back": null,
+            "book_id": 244,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 244,
+        "fields": {
+            "inv_nom": "872423",
+            "due_back": null,
+            "book_id": 245,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 245,
+        "fields": {
+            "inv_nom": "870395",
+            "due_back": null,
+            "book_id": 246,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 246,
+        "fields": {
+            "inv_nom": "669708",
+            "due_back": null,
+            "book_id": 247,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 247,
+        "fields": {
+            "inv_nom": "868731",
+            "due_back": null,
+            "book_id": 248,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 248,
+        "fields": {
+            "inv_nom": "786008",
+            "due_back": null,
+            "book_id": 249,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 249,
+        "fields": {
+            "inv_nom": "983703",
+            "due_back": null,
+            "book_id": 250,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 250,
+        "fields": {
+            "inv_nom": "672180",
+            "due_back": null,
+            "book_id": 251,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 251,
+        "fields": {
+            "inv_nom": "601607",
+            "due_back": null,
+            "book_id": 252,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 252,
+        "fields": {
+            "inv_nom": "323187",
+            "due_back": null,
+            "book_id": 253,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 253,
+        "fields": {
+            "inv_nom": "809304",
+            "due_back": null,
+            "book_id": 254,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 254,
+        "fields": {
+            "inv_nom": "733470",
+            "due_back": null,
+            "book_id": 255,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 255,
+        "fields": {
+            "inv_nom": "824407",
+            "due_back": null,
+            "book_id": 256,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 256,
+        "fields": {
+            "inv_nom": "737421",
+            "due_back": null,
+            "book_id": 257,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 257,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 258,
+        "fields": {
+            "inv_nom": "828097",
+            "due_back": null,
+            "book_id": 259,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 259,
+        "fields": {
+            "inv_nom": "975555",
+            "due_back": null,
+            "book_id": 260,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 260,
+        "fields": {
+            "inv_nom": "748340",
+            "due_back": null,
+            "book_id": 261,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 261,
+        "fields": {
+            "inv_nom": "310025",
+            "due_back": null,
+            "book_id": 262,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 262,
+        "fields": {
+            "inv_nom": "485463",
+            "due_back": null,
+            "book_id": 263,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 263,
+        "fields": {
+            "inv_nom": "910910",
+            "due_back": null,
+            "book_id": 264,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 264,
+        "fields": {
+            "inv_nom": "936599",
+            "due_back": null,
+            "book_id": 265,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 265,
+        "fields": {
+            "inv_nom": "868349",
+            "due_back": null,
+            "book_id": 266,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 266,
+        "fields": {
+            "inv_nom": "843118",
+            "due_back": null,
+            "book_id": 267,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 267,
+        "fields": {
+            "inv_nom": "866066",
+            "due_back": null,
+            "book_id": 268,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 268,
+        "fields": {
+            "inv_nom": "865465",
+            "due_back": null,
+            "book_id": 269,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 269,
+        "fields": {
+            "inv_nom": "864335",
+            "due_back": null,
+            "book_id": 270,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 270,
+        "fields": {
+            "inv_nom": "860800",
+            "due_back": null,
+            "book_id": 271,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 271,
+        "fields": {
+            "inv_nom": "859346",
+            "due_back": null,
+            "book_id": 272,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 272,
+        "fields": {
+            "inv_nom": "859414",
+            "due_back": null,
+            "book_id": 273,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 273,
+        "fields": {
+            "inv_nom": "854988",
+            "due_back": null,
+            "book_id": 274,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 274,
+        "fields": {
+            "inv_nom": "855001",
+            "due_back": null,
+            "book_id": 275,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 275,
+        "fields": {
+            "inv_nom": "855003",
+            "due_back": null,
+            "book_id": 276,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 276,
+        "fields": {
+            "inv_nom": "808830",
+            "due_back": null,
+            "book_id": 277,
+            "status_id": 1
+        }
+    },
+    {
+        "model": "catalog.bookinstance",
+        "pk": 277,
+        "fields": {
+            "inv_nom": "853719",
+            "due_back": null,
+            "book_id": 278,
+            "status_id": 1
+        }
+    }
+]

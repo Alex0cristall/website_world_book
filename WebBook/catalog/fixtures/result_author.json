@@ -1,0 +1,1839 @@
+[
+    {
+        "model": "catalog.author",
+        "pk": 7,
+        "fields": {
+            "first_name": "Чарльз",
+            "last_name": "Петцольд",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 8,
+        "fields": {
+            "first_name": "Николя",
+            "last_name": "Денешо",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 9,
+        "fields": {
+            "first_name": "Бруно",
+            "last_name": "Провецца",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 10,
+        "fields": {
+            "first_name": "Ричард",
+            "last_name": "Уильямс",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 11,
+        "fields": {
+            "first_name": "Пол",
+            "last_name": "Бэрри",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 12,
+        "fields": {
+            "first_name": "Кэтти",
+            "last_name": "Сьерра",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 13,
+        "fields": {
+            "first_name": "Берт",
+            "last_name": "Бейтс",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 14,
+        "fields": {
+            "first_name": "Андрей",
+            "last_name": "Столяров",
+            "surname": "Викторович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 15,
+        "fields": {
+            "first_name": "Эрик",
+            "last_name": "Мэтиз",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 16,
+        "fields": {
+            "first_name": "Эл",
+            "last_name": "Свейгарт",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 17,
+        "fields": {
+            "first_name": "Виктор",
+            "last_name": "Олифер",
+            "surname": "Григорьевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 18,
+        "fields": {
+            "first_name": "Наталья",
+            "last_name": "Олифер",
+            "surname": "Алексеевна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 19,
+        "fields": {
+            "first_name": "Кай-Фу",
+            "last_name": "Ли",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 20,
+        "fields": {
+            "first_name": "Михалис",
+            "last_name": "Цукалос",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 21,
+        "fields": {
+            "first_name": "Э.",
+            "last_name": "Гамма",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 22,
+        "fields": {
+            "first_name": "Р.",
+            "last_name": "Джонсон",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 23,
+        "fields": {
+            "first_name": "Р.",
+            "last_name": "Хелм",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 24,
+        "fields": {
+            "first_name": "Эндрю",
+            "last_name": "Таненбаум",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 25,
+        "fields": {
+            "first_name": "Дэвид",
+            "last_name": "Уэзеролл",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 26,
+        "fields": {
+            "first_name": "Херберт",
+            "last_name": "Бос",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 27,
+        "fields": {
+            "first_name": "Антонио",
+            "last_name": "Стаппаэртс",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 28,
+        "fields": {
+            "first_name": "Фатима",
+            "last_name": "Хаджайд",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 29,
+        "fields": {
+            "first_name": "Жорди",
+            "last_name": "Лафебр",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 30,
+        "fields": {
+            "first_name": "Ник",
+            "last_name": "Фимстер",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 31,
+        "fields": {
+            "first_name": "Карл",
+            "last_name": "Андерсон",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 32,
+        "fields": {
+            "first_name": "Селия",
+            "last_name": "Ходент",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 33,
+        "fields": {
+            "first_name": "Семен",
+            "last_name": "Богатырев",
+            "surname": "Юрьевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 34,
+        "fields": {
+            "first_name": "Джон",
+            "last_name": "Сонмез",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 35,
+        "fields": {
+            "first_name": "Анна",
+            "last_name": "Лепешкина",
+            "surname": "Викторовна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 36,
+        "fields": {
+            "first_name": "Вячеслав",
+            "last_name": "Лозовецкий",
+            "surname": "Владимирович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 37,
+        "fields": {
+            "first_name": "Владимир",
+            "last_name": "Лебедев",
+            "surname": "Владимирович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 38,
+        "fields": {
+            "first_name": "Евгений",
+            "last_name": "Комаров",
+            "surname": "Геннадьевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 39,
+        "fields": {
+            "first_name": "Лилия",
+            "last_name": "Галыгина",
+            "surname": "Владимировна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 40,
+        "fields": {
+            "first_name": "Ирина",
+            "last_name": "Галыгина",
+            "surname": "Владимировна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 41,
+        "fields": {
+            "first_name": "Елена",
+            "last_name": "Турнецкая",
+            "surname": "Леонидовна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 42,
+        "fields": {
+            "first_name": "Андрей",
+            "last_name": "Аграновский",
+            "surname": "Владимирович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 43,
+        "fields": {
+            "first_name": "Андрей",
+            "last_name": "Бирюков",
+            "surname": "Александрович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 44,
+        "fields": {
+            "first_name": "Оливер",
+            "last_name": "Вильяр",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 45,
+        "fields": {
+            "first_name": "Джанель",
+            "last_name": "Шейн",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 46,
+        "fields": {
+            "first_name": "Генриэтта",
+            "last_name": "Домбровская",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 47,
+        "fields": {
+            "first_name": "Борис",
+            "last_name": "Новиков",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 48,
+        "fields": {
+            "first_name": "Анна",
+            "last_name": "Бейликова",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 49,
+        "fields": {
+            "first_name": "Дж.",
+            "last_name": "Рейнвотер",
+            "surname": "Ханк",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 50,
+        "fields": {
+            "first_name": "Григорий",
+            "last_name": "Радовильский",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 51,
+        "fields": {
+            "first_name": "Наталья",
+            "last_name": "Андрианова",
+            "surname": "Аркадьевна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 52,
+        "fields": {
+            "first_name": "Джон",
+            "last_name": "Дакетт",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 53,
+        "fields": {
+            "first_name": "Илья",
+            "last_name": "Тюрин",
+            "surname": "Вячеславович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 54,
+        "fields": {
+            "first_name": "Сергей",
+            "last_name": "Шахтанов",
+            "surname": "Валерьевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 55,
+        "fields": {
+            "first_name": "Бас",
+            "last_name": "Мейер",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 56,
+        "fields": {
+            "first_name": "Рене",
+            "last_name": "Мозер",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 57,
+        "fields": {
+            "first_name": "Лорин",
+            "last_name": "Хохштейн",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 58,
+        "fields": {
+            "first_name": "Михал",
+            "last_name": "Яворски",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 59,
+        "fields": {
+            "first_name": "Тарек",
+            "last_name": "Зиаде",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 60,
+        "fields": {
+            "first_name": "Ноам",
+            "last_name": "Нисан",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 61,
+        "fields": {
+            "first_name": "Шимон",
+            "last_name": "Шокен",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 62,
+        "fields": {
+            "first_name": "Роджер",
+            "last_name": "Граймс",
+            "surname": "А.",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 63,
+        "fields": {
+            "first_name": "Олег",
+            "last_name": "Перерва",
+            "surname": "Валентинович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 64,
+        "fields": {
+            "first_name": "Томаш",
+            "last_name": "Гартман",
+            "surname": "Николаевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 65,
+        "fields": {
+            "first_name": "Полина",
+            "last_name": "Демидова",
+            "surname": "Михайловна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 66,
+        "fields": {
+            "first_name": "Ольга",
+            "last_name": "Колесник",
+            "surname": "Александровна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 67,
+        "fields": {
+            "first_name": "Ольга",
+            "last_name": "Лепихина",
+            "surname": "Юрьевна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 68,
+        "fields": {
+            "first_name": "Алексей",
+            "last_name": "Чурин",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 69,
+        "fields": {
+            "first_name": "Felicia",
+            "last_name": "Hess",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 70,
+        "fields": {
+            "first_name": "Адам",
+            "last_name": "Скотт",
+            "surname": "Д.",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 71,
+        "fields": {
+            "first_name": "Мэтью",
+            "last_name": "Макдоналд",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 72,
+        "fields": {
+            "first_name": "Шелли",
+            "last_name": "Пауэрс",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 73,
+        "fields": {
+            "first_name": "Дакс",
+            "last_name": "Гэзеуэй",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 74,
+        "fields": {
+            "first_name": "Алекс",
+            "last_name": "Горелик",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 75,
+        "fields": {
+            "first_name": "Ольга",
+            "last_name": "Пыркина",
+            "surname": "Евгеньевна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 76,
+        "fields": {
+            "first_name": "С.",
+            "last_name": "Минаков",
+            "surname": "С.",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 77,
+        "fields": {
+            "first_name": "П.",
+            "last_name": "Закляков",
+            "surname": "В.",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 78,
+        "fields": {
+            "first_name": "Эль",
+            "last_name": "Аймен",
+            "surname": "Амри",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 79,
+        "fields": {
+            "first_name": "Джон",
+            "last_name": "Лакос",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 80,
+        "fields": {
+            "first_name": "Алисдар",
+            "last_name": "Мередит",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 81,
+        "fields": {
+            "first_name": "Ростислав",
+            "last_name": "Хлебников",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 82,
+        "fields": {
+            "first_name": "Александр",
+            "last_name": "Микушин",
+            "surname": "Владимирович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 83,
+        "fields": {
+            "first_name": "Владислав",
+            "last_name": "Цехановский",
+            "surname": "Владимирович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 84,
+        "fields": {
+            "first_name": "Владимир",
+            "last_name": "Чертовской",
+            "surname": "Дмитриевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 85,
+        "fields": {
+            "first_name": "Седат",
+            "last_name": "Капаноглу",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 86,
+        "fields": {
+            "first_name": "Евгений",
+            "last_name": "Никулин",
+            "surname": "Александрович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 87,
+        "fields": {
+            "first_name": "Елена",
+            "last_name": "Тесля",
+            "surname": "Владимировна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 88,
+        "fields": {
+            "first_name": "Александр",
+            "last_name": "Бондаренко",
+            "surname": "Викторович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 89,
+        "fields": {
+            "first_name": "Михаил",
+            "last_name": "Лисицын",
+            "surname": "Владимирович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 90,
+        "fields": {
+            "first_name": "Андрей",
+            "last_name": "Лисицын",
+            "surname": "Владимирович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 91,
+        "fields": {
+            "first_name": "Анатолий",
+            "last_name": "Белоус",
+            "surname": "Иванович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 92,
+        "fields": {
+            "first_name": "Виталий",
+            "last_name": "Солодуха",
+            "surname": "Александрович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 93,
+        "fields": {
+            "first_name": "Сергей",
+            "last_name": "Шведов",
+            "surname": "Васильевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 94,
+        "fields": {
+            "first_name": "Виктор",
+            "last_name": "Кравченко",
+            "surname": "Филиппович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 95,
+        "fields": {
+            "first_name": "Дмитрий",
+            "last_name": "Чуриков",
+            "surname": "Викторович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 96,
+        "fields": {
+            "first_name": "Сергей",
+            "last_name": "Умняшкин",
+            "surname": "Владимирович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 97,
+        "fields": {
+            "first_name": "Виталий",
+            "last_name": "Хименко",
+            "surname": "Иванович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 98,
+        "fields": {
+            "first_name": "Константин",
+            "last_name": "Баланис",
+            "surname": "А.",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 99,
+        "fields": {
+            "first_name": "Панайотис",
+            "last_name": "Иоанидес",
+            "surname": "И.",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 100,
+        "fields": {
+            "first_name": "Андреа",
+            "last_name": "Голдсмит",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 101,
+        "fields": {
+            "first_name": "Джон",
+            "last_name": "Хеннесси",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 102,
+        "fields": {
+            "first_name": "Дэвид",
+            "last_name": "Паттерсон",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 103,
+        "fields": {
+            "first_name": "Ти",
+            "last_name": "Краудер",
+            "surname": "Джей",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 104,
+        "fields": {
+            "first_name": "Валерий",
+            "last_name": "Янцев",
+            "surname": "Викторович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 105,
+        "fields": {
+            "first_name": "Сергей",
+            "last_name": "Рацеев",
+            "surname": "Михайлович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 106,
+        "fields": {
+            "first_name": "Роберт",
+            "last_name": "Кабаков",
+            "surname": "И.",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 107,
+        "fields": {
+            "first_name": "Ли",
+            "last_name": "Воган",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 108,
+        "fields": {
+            "first_name": "Светлана",
+            "last_name": "Прокопчина",
+            "surname": "Васильевна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 109,
+        "fields": {
+            "first_name": "Филлип",
+            "last_name": "Компо",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 110,
+        "fields": {
+            "first_name": "Павел",
+            "last_name": "Певзнер",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 111,
+        "fields": {
+            "first_name": "Роб",
+            "last_name": "Хайндман",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 112,
+        "fields": {
+            "first_name": "Джордж",
+            "last_name": "Атанасопулос",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 113,
+        "fields": {
+            "first_name": "Сэмми",
+            "last_name": "Краудер",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 114,
+        "fields": {
+            "first_name": "Дмитрий",
+            "last_name": "Митюшин",
+            "surname": "Алексеевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 115,
+        "fields": {
+            "first_name": "Ирина",
+            "last_name": "Седых",
+            "surname": "Юрьевна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 116,
+        "fields": {
+            "first_name": "Наталия",
+            "last_name": "Светлова",
+            "surname": "Ивановна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 117,
+        "fields": {
+            "first_name": "Людмила",
+            "last_name": "Борисова",
+            "surname": "Робертовна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 118,
+        "fields": {
+            "first_name": "Джозеф",
+            "last_name": "Хокинг",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 119,
+        "fields": {
+            "first_name": "Тамара",
+            "last_name": "Манцнер",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 120,
+        "fields": {
+            "first_name": "Антонио",
+            "last_name": "Меле",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 121,
+        "fields": {
+            "first_name": "Елена",
+            "last_name": "Смирнова",
+            "surname": "Викторовна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 122,
+        "fields": {
+            "first_name": "Екатерина",
+            "last_name": "Ромашкина",
+            "surname": "Александровна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 123,
+        "fields": {
+            "first_name": "Андрей",
+            "last_name": "Пролетарский",
+            "surname": "Викторович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 124,
+        "fields": {
+            "first_name": "Игорь",
+            "last_name": "Орещенков",
+            "surname": "Сергеевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 125,
+        "fields": {
+            "first_name": "Кит",
+            "last_name": "Мартин",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 126,
+        "fields": {
+            "first_name": "Виктор",
+            "last_name": "Ходырев",
+            "surname": "Валерьевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 127,
+        "fields": {
+            "first_name": "Александр",
+            "last_name": "Иванько",
+            "surname": "Федорович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 128,
+        "fields": {
+            "first_name": "Арсения",
+            "last_name": "Курносова",
+            "surname": "Валерьевна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 129,
+        "fields": {
+            "first_name": "Михаил",
+            "last_name": "Иванько",
+            "surname": "Александрович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 130,
+        "fields": {
+            "first_name": "Александр",
+            "last_name": "Матвеев",
+            "surname": "Иванович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 131,
+        "fields": {
+            "first_name": "Евгений",
+            "last_name": "Сугак",
+            "surname": "Викторович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 132,
+        "fields": {
+            "first_name": "Татьяна",
+            "last_name": "Мелехина",
+            "surname": "Леонидовна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 133,
+        "fields": {
+            "first_name": "Светлана",
+            "last_name": "Поздеева",
+            "surname": "Николаевна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 134,
+        "fields": {
+            "first_name": "Вадим",
+            "last_name": "Миронов",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 135,
+        "fields": {
+            "first_name": "Александр",
+            "last_name": "Суворов",
+            "surname": "Петрович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 136,
+        "fields": {
+            "first_name": "Геннадий",
+            "last_name": "Катунин",
+            "surname": "Павлович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 137,
+        "fields": {
+            "first_name": "Дэвид",
+            "last_name": "Бизли",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 138,
+        "fields": {
+            "first_name": "Анирад",
+            "last_name": "Коул",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 139,
+        "fields": {
+            "first_name": "Мехер",
+            "last_name": "Казам",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 140,
+        "fields": {
+            "first_name": "Сиддха",
+            "last_name": "Ганджу",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 141,
+        "fields": {
+            "first_name": "Спарк",
+            "last_name": "Флоу",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 142,
+        "fields": {
+            "first_name": "Даниэль",
+            "last_name": "Зингаро",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 143,
+        "fields": {
+            "first_name": "Дэн",
+            "last_name": "Коттманн",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 144,
+        "fields": {
+            "first_name": "Том",
+            "last_name": "Стил",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 145,
+        "fields": {
+            "first_name": "Крис",
+            "last_name": "Паттен",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 146,
+        "fields": {
+            "first_name": "Анатолий",
+            "last_name": "Гайдук",
+            "surname": "Романович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 147,
+        "fields": {
+            "first_name": "Виктор",
+            "last_name": "Беляев",
+            "surname": "Егорович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 148,
+        "fields": {
+            "first_name": "Тамила",
+            "last_name": "Пьявченко",
+            "surname": "Алексеевна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 149,
+        "fields": {
+            "first_name": "Дилан",
+            "last_name": "Скотт",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 150,
+        "fields": {
+            "first_name": "Дейв",
+            "last_name": "Клейн",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 151,
+        "fields": {
+            "first_name": "Виктор",
+            "last_name": "Гамов",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 152,
+        "fields": {
+            "first_name": "Рамальо",
+            "last_name": "Лусиану",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 153,
+        "fields": {
+            "first_name": "Ден",
+            "last_name": "Томашевский",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 154,
+        "fields": {
+            "first_name": "Роберт",
+            "last_name": "Мартин",
+            "surname": "С.",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 155,
+        "fields": {
+            "first_name": "Марк",
+            "last_name": "Холмс",
+            "surname": "Торо",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 156,
+        "fields": {
+            "first_name": "Сергей",
+            "last_name": "Старолетов",
+            "surname": "Михайлович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 157,
+        "fields": {
+            "first_name": "Арлиндо",
+            "last_name": "Оливейра",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 158,
+        "fields": {
+            "first_name": "Маркус",
+            "last_name": "Ловадина",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 159,
+        "fields": {
+            "first_name": "Мэтт",
+            "last_name": "Ткоч",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 160,
+        "fields": {
+            "first_name": "Джеймс",
+            "last_name": "Стреле",
+            "surname": "Вулф",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 161,
+        "fields": {
+            "first_name": "Андрей",
+            "last_name": "Бурков",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 162,
+        "fields": {
+            "first_name": "Крейг",
+            "last_name": "Уоллс",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 163,
+        "fields": {
+            "first_name": "Надья",
+            "last_name": "Эгбал",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 164,
+        "fields": {
+            "first_name": "Эндрю",
+            "last_name": "Пиз",
+            "surname": null,
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 165,
+        "fields": {
+            "first_name": "Анатолий",
+            "last_name": "Заяц",
+            "surname": "Моисеевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 166,
+        "fields": {
+            "first_name": "Сергей",
+            "last_name": "Хабаров",
+            "surname": "Петрович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 167,
+        "fields": {
+            "first_name": "Антон",
+            "last_name": "Хатунцев",
+            "surname": "Борисович",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 168,
+        "fields": {
+            "first_name": "Андрей",
+            "last_name": "Обухов",
+            "surname": "Дмитриевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 169,
+        "fields": {
+            "first_name": "В.",
+            "last_name": "Лазарев",
+            "surname": "Л.",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 170,
+        "fields": {
+            "first_name": "В.",
+            "last_name": "Тарасов",
+            "surname": "Б.",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 171,
+        "fields": {
+            "first_name": "Валерий",
+            "last_name": "Медик",
+            "surname": "Алексеевич",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 172,
+        "fields": {
+            "first_name": "Ольга",
+            "last_name": "Агафонова",
+            "surname": "Вячеславовна",
+            "date_of_birth": null,
+            "about": null
+        }
+    },
+    {
+        "model": "catalog.author",
+        "pk": 173,
+        "fields": {
+            "first_name": "Гузель",
+            "last_name": "Улумбекова",
+            "surname": "Эрнстовна",
+            "date_of_birth": null,
+            "about": null
+        }
+    }
+]
