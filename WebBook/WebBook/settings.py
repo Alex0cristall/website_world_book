@@ -13,7 +13,9 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 from pathlib import Path
 import os
 
-from django.conf.global_settings import MEDIA_ROOT, MEDIA_URL
+#from django.conf.global_settings import MEDIA_ROOT, STATIC_ROOT
+
+#from django.conf.global_settings import MEDIA_ROOT, MEDIA_URL
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -41,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'catalog',
-    #'django-cleanup'
+    'django_cleanup',
 ]
 
 MIDDLEWARE = [
@@ -122,13 +124,18 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
-STATIC_URL = 'static/'
-STATICFILES_DIR = [
-  os.path.join(BASE_DIR / 'static')
+STATIC_URL = '/static/'
+
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static')
 ]
+
+# Imges(media) files(PNG, JPG, ...)
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
+
+
 
 
 # Default primary key field type

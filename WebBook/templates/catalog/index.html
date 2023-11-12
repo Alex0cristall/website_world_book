@@ -1,0 +1,143 @@
+{% extends "catalog/base.html" %}
+{% load static %}
+{% block title %}Мир книг{% endblock title %}
+
+
+
+
+{% block main-page %}
+  <div class="main image" style="
+    background: 
+    linear-gradient(rgba(255, 255, 255, 0.4), rgba(0, 0, 0, 0.7)), 
+    url({% static 'images/istockphoto-1320176241-2048x2048-transformed.jpeg' %});
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top; ">
+
+      {% comment %} <div class="row main-page" style="background-image: url({% static 'images/istockphoto-1320176241-2048x2048-transformed.jpeg' %});background-size: cover; background-position: center; background-color: rgba(0, 0, 0, .5);"> {% endcomment %}
+
+    <div class="container">    
+      <div class="row main-page">
+
+        <div class="col text-center fs-1 fw-bold title-page">
+          <div class="title-page">{% block header %} <h5 class="title-page blur"> {{ text_head }} </h5> {% endblock header %}</div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+{% endblock main-page %}
+
+
+
+
+{% block content %}
+<style>
+  
+</style>
+
+
+  <div class="container">
+    <div class="row">
+
+      <div class="col text-center">
+        <div>
+          <p>
+            Добро пожаловать на сайт <em>Мир книг</em>. Это очень
+            простой веб-сайт, написанный на Django и Bootstrap.
+            Разработан на Python в качестве учебного примера
+            с использованием PyCharm.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row text-center text-dark lh-2">
+      <h4>Сведения из базы данных</h4>
+    </div>
+
+    <div class="row my-2">
+      <div class="col mx-2">
+        Количество книг - {{ count_all_books }}
+      </div>
+
+      <div class="col mx-2">
+        Нa складе в наличии - {{ count_instances_available }}
+      </div>
+
+      <div class="col mx-2">
+        Количество авторов - {{ count_all_authors }}
+      </div>
+    </div>
+
+    <div class="row text-center text-dark lh-2">
+      <h3>Книги</h3>
+    </div>
+
+    {% if count_all_books > 0 %}
+      <div class="row my-5">
+        {% for obj in books %}
+          {% if  obj.photo_url %}
+            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+              <div class="card card-book" style='display: inline-block;'>
+                <img src="{{ obj.photo_url }}" class="card-img-top" alt="..." width="286px" height="369px">
+                <div class="card-body">
+                  <h5 class="card-title" style="height: 170px;">
+                    {{ obj.title }}
+                  </h5>
+                  
+                  <div class="price-book">
+                    <p class="card-text small">
+                      Цена: <strong><em>{{ obj.price }}</em></strong> руб.
+                    </p>
+
+                    <a href="books/{{ obj.id }}" class="btn btn-primary">Подробнее о книге</a>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          {% endif %}
+        {% endfor %}
+
+      </div>
+    {% endif %}
+
+
+  </div>
+
+{% endblock content %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
